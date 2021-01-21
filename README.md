@@ -97,3 +97,5 @@ Navigation
    
 
 4. today's UI setup sample ( common properties of constraintlayout and ImageView)
+
+   https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/AndroidTriviaNavigation/app/src/main/res/layout/nav_header.xml
