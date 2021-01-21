@@ -61,6 +61,6 @@ Navigation
         </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-2. today's tip [this]
+2. today's tip (this)
 
    https://www.kotlincn.net/docs/reference/this-expressions.html
