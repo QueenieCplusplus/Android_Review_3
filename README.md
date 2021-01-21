@@ -58,18 +58,25 @@ Navigation
            }
            
 
-2. UI Layout.
+2. UI Layout. The NavController instance is binding with the fragment id tagged as myNavHostFragment.
 
 
-        // activity_main.xml
+        // activity_main.xml 
         
         <?xml encoding="utf-8"?>
         
+        <layout>
         
+             <androidx.drawerlayout.widget.DrawerLayout>
+             
+             </androidx.drawerlayout.widget.DrawerLayout>
         
-
-
-         
+        </layout>
+        
+      
+      ----------------------------------------------------------------------------------
+      
+      
         // nav_header.xml
         
         <?xml encoding="utf-8"?>
