@@ -89,23 +89,11 @@ Navigation
       
       ----------------------------------------------------------------------------------
       
-      
-        // nav_header.xml
-        
-        <?xml encoding="utf-8"?>
-        <androidx.constraintlayout.widget.ConstraintLayout
-          android:id="@id/navHeader"
-        >
-        
-          
-        
-        
-        </androidx.constraintlayout.widget.ConstraintLayout>
-
+     
 
 3. today's tip (this)
 
    https://www.kotlincn.net/docs/reference/this-expressions.html
    
 
-4. today's UI setup sample ()
+4. today's UI setup sample ( common properties of constraintlayout and ImageView)
