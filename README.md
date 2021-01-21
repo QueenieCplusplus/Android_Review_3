@@ -57,7 +57,18 @@ Navigation
            
            }
            
+
+2. UI Layout.
+
+
+        // activity_main.xml
         
+        <?xml encoding="utf-8"?>
+        
+        
+        
+
+
          
         // nav_header.xml
         
@@ -72,6 +83,6 @@ Navigation
         </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-2. today's tip (this)
+3. today's tip (this)
 
    https://www.kotlincn.net/docs/reference/this-expressions.html
