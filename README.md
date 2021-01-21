@@ -67,7 +67,20 @@ Navigation
         
         <layout>
         
-             <androidx.drawerlayout.widget.DrawerLayout>
+             <androidx.drawerlayout.widget.DrawerLayout
+                android:id="@+id/drawerlayout"
+             >
+             
+                 <LinearLayout
+                      android:orientation="vertical"
+                 >
+                 
+                      <fragment
+                          android:id="@+id/myNavHostFragment"
+                          android:name="androidx.navigation.fragment.NavHostFragment"
+                      />
+                 
+                 </LinearLayout>
              
              </androidx.drawerlayout.widget.DrawerLayout>
         
