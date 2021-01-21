@@ -40,7 +40,7 @@ Navigation
               override fun onSupportNavigateUp(): Boolean {
               
                  val navController = this.findNavController(R.id.myNavHostFragment)
-                 return Naviagtion
+                 return NaviagtionUI.navigateUp(navController, drawerLayout)
               
               }
            
