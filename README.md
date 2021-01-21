@@ -106,3 +106,6 @@ Navigation
 3. today's tip (this)
 
    https://www.kotlincn.net/docs/reference/this-expressions.html
+   
+
+4. today's UI setup sample ()
